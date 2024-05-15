@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "staging": "prune-94ad9",
+    "default": "prune-94ad9"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
